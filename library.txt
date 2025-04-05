@@ -1,9 +1,1 @@
-[
-    {
-        "title": "Power OF Dicipline",
-        "author": "Umer",
-        "year": 2092,
-        "genre": "89",
-        "read": false
-    }
-]
+[]
